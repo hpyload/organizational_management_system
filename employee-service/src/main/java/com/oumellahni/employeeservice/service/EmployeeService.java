@@ -1,5 +1,6 @@
 package com.oumellahni.employeeservice.service;
 
+import com.oumellahni.employeeservice.dto.APIResponseDto;
 import com.oumellahni.employeeservice.dto.EmployeeDto;
 
 /**
@@ -8,4 +9,6 @@ import com.oumellahni.employeeservice.dto.EmployeeDto;
  */
 public interface EmployeeService {
     EmployeeDto saveEmployee(EmployeeDto employeeDto);
+    APIResponseDto getEmployeeById(Long employeeId);
+
 }

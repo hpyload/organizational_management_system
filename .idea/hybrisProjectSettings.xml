@@ -13,6 +13,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="spring_boot_microservices">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

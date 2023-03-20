@@ -4,17 +4,15 @@ import lombok.*;
 
 /**
  * @author nabil
- * @at 3/14/23 11:33 AM
+ * @at 3/14/23 12:29 PM
  */
 @Setter
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-public class EmployeeDto {
+public class DepartmentDto {
     private Long id;
-    private String firstName;
-    private String lastName;
-    private String email;
+    private String departmentName;
+    private String departmentDescription;
     private String departmentCode;
-//    private String organizationCode;
 }
