@@ -10,7 +10,6 @@ import lombok.*;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-@ToString
 public class DepartmentDto {
     private Long id;
     private String departmentName;
