@@ -8,6 +8,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="config-server">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="department-service">
           <value>
             <ModuleSettings />
