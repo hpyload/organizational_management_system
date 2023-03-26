@@ -16,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="api-gateway" target="17" />
       <module name="config-server" target="17" />
+      <module name="conifig-server" target="17" />
       <module name="department-service" target="17" />
       <module name="employee-service" target="17" />
       <module name="service-registry" target="17" />
@@ -25,6 +26,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api-gateway" options="-parameters" />
       <module name="config-server" options="-parameters" />
+      <module name="conifig-server" options="-parameters" />
       <module name="department-service" options="-parameters" />
       <module name="employee-service" options="-parameters" />
       <module name="service-registry" options="-parameters" />

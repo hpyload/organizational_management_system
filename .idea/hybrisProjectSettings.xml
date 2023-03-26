@@ -13,6 +13,11 @@
             <ModuleSettings />
           </value>
         </entry>
+        <entry key="conifig-server">
+          <value>
+            <ModuleSettings />
+          </value>
+        </entry>
         <entry key="department-service">
           <value>
             <ModuleSettings />
